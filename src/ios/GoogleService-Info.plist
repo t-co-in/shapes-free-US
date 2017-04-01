@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-5010565491991655/2890445327</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-5010565491991655/5843911727</string>
+	<key>CLIENT_ID</key>
+	<string>1080274052897-pp8vhd8kj5182kmqmdd1bm8uiea79jud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1080274052897-pp8vhd8kj5182kmqmdd1bm8uiea79jud</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkXW_rOFkPhgZM58hzkfEwgFttQ1CYu90</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1080274052897</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.edutainmentapp.shapes.colors.free.usa</string>
+	<key>PROJECT_ID</key>
+	<string>admob-app-id-3769776524</string>
+	<key>STORAGE_BUCKET</key>
+	<string>admob-app-id-3769776524.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1080274052897:ios:007521250cd92ec9</string>
+	<key>DATABASE_URL</key>
+	<string>https://admob-app-id-3769776524.firebaseio.com</string>
 </dict>
 </plist>
